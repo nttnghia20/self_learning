@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530103363654",
+    "firebase_url": "https://gettingstartflutter.firebaseio.com",
+    "project_id": "gettingstartflutter",
+    "storage_bucket": "gettingstartflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530103363654:android:f528e109050f8868210247",
+        "android_client_info": {
+          "package_name": "com.littlerabbitgames.gettingStartFlutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530103363654-5uhlgrvp8p66rls8te8sb2mdto9lsehc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_RjnpUGJaN--HBMRgS00NVcSlHXwwg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530103363654-5uhlgrvp8p66rls8te8sb2mdto9lsehc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
